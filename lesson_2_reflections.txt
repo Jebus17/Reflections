@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialice a repository it's created a hidden file 
+.git where the info about versions and files are described. It 
+is necesary to indicate the files of the proyect and its status
